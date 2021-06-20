@@ -1,0 +1,80 @@
+﻿@model MercadoClientes.ViewModels.ProdutoIndexViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>MercadoClientes</h1>
+<form asp-action="Index">
+    <label>Busca:</label>
+    <input type="text" asp-for="@Model.Search" />
+    <br />
+    <label>Ordenação por Nome:</label>
+    <select asp-for="OrderAscendant">
+        <option value="@true">Ascendente</option>
+        <option value="@false">Descendente</option>
+    </select>
+    <br />
+    <button>go!</button>
+</form>
+
+<p>
+    <a asp-action="Create">Inserir novo produto</a>
+</p>
+@{ if (Model.Produtos == null || !Model.Produtos.Any())
+   {
+    <p>Nenhum Produto cadastrado :(</p> 
+    
+    return;
+
+   } 
+ }
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Produtos.First().IdProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Produtos.First().NomeProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Produtos.First().CaracteristicasProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Produtos.First().QuantidadeProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Produtos.First().DataFabricacao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Produtos)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdProduto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NomeProduto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CaracteristicasProduto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.QuantidadeProduto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataFabricacao)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.IdProduto }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.IdProduto }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.IdProduto })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

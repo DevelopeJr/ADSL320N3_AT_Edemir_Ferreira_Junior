@@ -1,0 +1,49 @@
+﻿@model Data.Models.ProdutoModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Adicionar produtos</h1>
+
+<h4>Modelo do Produto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="NomeProduto" class="control-label"></label>
+                <input asp-for="NomeProduto" class="form-control" />
+                <span asp-validation-for="NomeProduto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CaracteristicasProduto" class="control-label"></label>
+                <input asp-for="CaracteristicasProduto" class="form-control" />
+                <span asp-validation-for="CaracteristicasProduto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="QuantidadeProduto" class="control-label"></label>
+                <input asp-for="QuantidadeProduto" class="form-control" />
+                <span asp-validation-for="QuantidadeProduto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataFabricacao" class="control-label"></label>
+                <input asp-for="DataFabricacao" class="form-control" />
+                <span asp-validation-for="DataFabricacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Criar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar para lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

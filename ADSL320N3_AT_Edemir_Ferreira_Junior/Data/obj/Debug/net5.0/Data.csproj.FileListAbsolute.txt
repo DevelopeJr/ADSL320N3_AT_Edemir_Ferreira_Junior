@@ -1,0 +1,36 @@
+C:\Users\Developer\source\repos\Mercado-Clientes\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\Developer\source\repos\Mercado-Clientes\Data\bin\Debug\net5.0\Data.dll
+C:\Users\Developer\source\repos\Mercado-Clientes\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\Developer\source\repos\Mercado-Clientes\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\Developer\source\repos\Mercado-Clientes\Data\obj\Debug\net5.0\Data.csprojAssemblyReference.cache
+C:\Users\Developer\source\repos\Mercado-Clientes\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\source\repos\Mercado-Clientes\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\Mercado-Clientes\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\Developer\source\repos\Mercado-Clientes\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Mercado-Clientes\Data\obj\Debug\net5.0\Data.dll
+C:\Users\Developer\source\repos\Mercado-Clientes\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\Developer\source\repos\Mercado-Clientes\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\Nova pasta\ADSL20N3-TP3-Edemir_Ferreira_Junior\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\Nova pasta\ADSL20N3-TP3-Edemir_Ferreira_Junior\Data\bin\Debug\net5.0\Data.dll
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\Nova pasta\ADSL20N3-TP3-Edemir_Ferreira_Junior\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\Nova pasta\ADSL20N3-TP3-Edemir_Ferreira_Junior\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\Nova pasta\ADSL20N3-TP3-Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\Nova pasta\ADSL20N3-TP3-Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\Nova pasta\ADSL20N3-TP3-Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\Nova pasta\ADSL20N3-TP3-Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\Nova pasta\ADSL20N3-TP3-Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\Nova pasta\ADSL20N3-TP3-Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.dll
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\Nova pasta\ADSL20N3-TP3-Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\Nova pasta\ADSL20N3-TP3-Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\AT-19-06-21\ADSL320N3_AT_Edemir_Ferreira_Junior\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\AT-19-06-21\ADSL320N3_AT_Edemir_Ferreira_Junior\Data\bin\Debug\net5.0\Data.dll
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\AT-19-06-21\ADSL320N3_AT_Edemir_Ferreira_Junior\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\AT-19-06-21\ADSL320N3_AT_Edemir_Ferreira_Junior\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\AT-19-06-21\ADSL320N3_AT_Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\AT-19-06-21\ADSL320N3_AT_Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\AT-19-06-21\ADSL320N3_AT_Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\AT-19-06-21\ADSL320N3_AT_Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\AT-19-06-21\ADSL320N3_AT_Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\AT-19-06-21\ADSL320N3_AT_Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.dll
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\AT-19-06-21\ADSL320N3_AT_Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\Developer\Documents\2-Prof-Felipe\Aulas\Only TPs\AT-19-06-21\ADSL320N3_AT_Edemir_Ferreira_Junior\Data\obj\Debug\net5.0\Data.pdb
